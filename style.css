@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.imgtype{
+    height: 143.328px;
+    width: 143.328px;
+}
+
+.imgdown{
+    transform: rotate(180deg);
+}
